@@ -1,0 +1,21 @@
+.App-logo {
+    height: 7vmin;
+    pointer-events: none;
+    border-radius: 50%;
+  }
+  
+  .App-header {
+    background-color: #eee;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #303030;
+    font-weight: bold;
+    padding: 0.2rem 0;
+    font-style: oblique;
+    text-decoration: 2px dashed #ddd underline;
+    text-underline-offset: 8px;
+  }
+  

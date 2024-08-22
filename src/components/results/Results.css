@@ -1,0 +1,25 @@
+#result-table{
+    position: relative;
+    top: auto;
+    left: auto;
+    margin: auto;
+    border-collapse: collapse;
+    border: none;
+    border: 2px dashed #ddd;
+    border-top: none;
+}
+
+#result-table thead tr th{
+    padding: 1rem 2rem;
+    background: #202020;
+    color: white;
+}
+
+#result-table tbody tr td{
+    padding: 1rem 2rem;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    border-left: 2px dashed #ddd;
+    border-right: 2px dashed #ddd;
+    font-weight: bold;
+}
